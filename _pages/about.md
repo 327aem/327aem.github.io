@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: left
@@ -23,10 +23,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Ph.D student at [Data Intelligence (DI) Lab](https://di.postech.ac.kr/di/index.do) at Pohang University of Science and Technology (POSTECH), advised by [Prof. Hwanjo Yu](https://di.postech.ac.kr/di/mem/professor.do). 
+I am Ph.D student at [Data Intelligence (DI) Lab](https://di.postech.ac.kr/di/index.do) at Pohang University of Science and Technology (POSTECH), advised by [Prof. Hwanjo Yu](https://di.postech.ac.kr/di/mem/professor.do).
 
 I'm interested in developing **recommendation systems** that not only capture but actively
-elicit users' latent intentions throughout their interaction history. 
+elicit users' latent intentions throughout their interaction history.
 My research focuses on leveraging multimodal signals to more clearly reveal and represent these hidden preferences,
 ultimately enabling more accurate and explainable recommender models.
 
@@ -58,16 +58,16 @@ matched with the most relevant document.
 
 - **Federated Continual Recommendation**
 
-  CIKM'25  
+  CIKM'25
 
-  Jaehyung Lim, Wonbin Kweon, Woojoo Kim, ***Junyoung Kim***, Seongjin Choi, Dongha Kim,
+  Jaehyung Lim, Wonbin Kweon, Woojoo Kim, **_Junyoung Kim_**, Seongjin Choi, Dongha Kim,
   Hwanjo Yu
 
-- **Crafting Query-Aware Selective Attention for Single Image Super-Resolution**  
+- **Crafting Query-Aware Selective Attention for Single Image Super-Resolution**
 
   ArXiv'25
-  
-  ***Junyoung Kim***, Youngrok Kim, Siyeol Jung, Donghyun Min
+
+  **_Junyoung Kim_**, Youngrok Kim, Siyeol Jung, Donghyun Min
 
 ## Awards & Fellowships
 
