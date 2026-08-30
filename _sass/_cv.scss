@@ -224,3 +224,9 @@ ul.timeline li::before {
   background-color: var(--global-theme-color) !important;
   color: var(--global-card-bg-color) !important;
 }
+
+// Emphasize publication titles in the CV
+.cv .pub-title {
+  font-size: 1.15rem;
+  line-height: 1.3;
+}

@@ -46,6 +46,8 @@ matched with the most relevant document.
 
 ## Publications
 
+<div class="pub-list" markdown="1">
+
 **Preprints**
 
 - **VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation** — arXiv'26
@@ -87,6 +89,8 @@ matched with the most relevant document.
 - **Federated Continual Recommendation** — CIKM'25
 
   Jaehyung Lim, Wonbin Kweon, Woojoo Kim, _**Junyoung Kim**_, Seongjin Choi, Dongha Kim, Hwanjo Yu
+
+</div>
 
 ## Experience
 
