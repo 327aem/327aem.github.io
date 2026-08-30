@@ -218,3 +218,9 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+// Retone CV date badges to the muted navy accent (was red)
+.cv .badge.danger-color-dark {
+  background-color: var(--global-theme-color) !important;
+  color: var(--global-card-bg-color) !important;
+}

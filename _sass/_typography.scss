@@ -19,10 +19,11 @@ body {
 }
 
 .post .post-title {
+  font-family: v.$font-serif;
   font-size: clamp(2rem, 3.2vw, 2.6rem);
-  font-weight: 800;
+  font-weight: 700;
   line-height: 1.15;
-  letter-spacing: -0.015em;
+  letter-spacing: -0.005em;
 }
 
 .post .desc {
@@ -31,6 +32,7 @@ body {
 }
 
 .post article h2 {
+  font-family: v.$font-serif;
   font-size: clamp(1.25rem, 2.2vw, 1.55rem);
   font-weight: 700;
   line-height: 1.25;
@@ -39,11 +41,17 @@ body {
 }
 
 .post article h3 {
+  font-family: v.$font-serif;
   font-size: clamp(1.06rem, 1.6vw, 1.2rem);
   font-weight: 600;
   line-height: 1.35;
   margin-top: 1.2rem;
   margin-bottom: 0.4rem;
+}
+
+// Serif for CV / publications section card titles
+.card-title {
+  font-family: v.$font-serif;
 }
 
 .about-page article h2 {
