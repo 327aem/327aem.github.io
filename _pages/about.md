@@ -44,6 +44,50 @@ matched with the most relevant document.
 
   Mar 2020 – Feb 2024
 
+## Publications
+
+**Preprints**
+
+- **VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation** — arXiv'26
+
+  _**Junyoung Kim**_, Woojoo Kim, Wonbin Kweon, Jaehyung Lim, Dongha Kim, Hwanjo Yu
+
+- **Personalized Federated Recommendation With Knowledge Guidance** — arXiv'25
+
+  Jaehyung Lim, Wonbin Kweon, Woojoo Kim, _**Junyoung Kim**_, Dongha Kim, Hwanjo Yu
+
+- **Crafting Query-Aware Selective Attention for Single Image Super-Resolution** — arXiv'25
+
+  _**Junyoung Kim**_, Youngrok Kim, Siyeol Jung, Donghyun Min
+
+**2026**
+
+- **Personalized Federated Recommendation via Long-Horizon Local Optimization and Regularized Knowledge Guidance** — JIIS'26
+
+  Jaehyung Lim, Wonbin Kweon, Woojoo Kim, _**Junyoung Kim**_, Dongha Kim, Hwanjo Yu
+
+- **From Overlooked to Explored: Recovering Item Relations via Mixture of Perspectives for Sequential Recommendation** — CIKM'26
+
+  _**Junyoung Kim**_, Wonbin Kweon, Woojoo Kim, Jaehyung Lim, Dongha Kim, Hwanjo Yu
+
+- **TRACER: Balancing Stability-Plasticity-Cognitivity Trilemma for LLM Enhanced Continual Recommendation** — CIKM'26
+
+  Woojoo Kim, Hyunsik Yoo, _**Junyoung Kim**_, Jaehyung Lim, Seongku Kang\*, Hwanjo Yu\*
+
+- **GOD: Enhancing Generalization via Deep Grafting for Sequential Recommendation** — CIKM'26
+
+  Woojoo Kim, _**Junyoung Kim**_, Jaehyung Lim, Hwanjo Yu
+
+- **FLAME: Condensing Ensemble Diversity into a Single Network for Efficient Sequential Recommendation** — SIGIR'26
+
+  Woojoo Kim, _**Junyoung Kim**_, Jaehyung Lim, Seongjin Choi, Seongku Kang\*, Hwanjo Yu\*
+
+**2025**
+
+- **Federated Continual Recommendation** — CIKM'25
+
+  Jaehyung Lim, Wonbin Kweon, Woojoo Kim, _**Junyoung Kim**_, Seongjin Choi, Dongha Kim, Hwanjo Yu
+
 ## Experience
 
 - **Naver**
@@ -53,21 +97,6 @@ matched with the most relevant document.
 - **ModuLABS \| Naver Connect**
 
   Coach, Boostcourse Coaching Study, Generative AI, Sep 2024 – Nov 2024
-
-## Publications
-
-- **Federated Continual Recommendation**
-
-  CIKM'25
-
-  Jaehyung Lim, Wonbin Kweon, Woojoo Kim, _**Junyoung Kim**_, Seongjin Choi, Dongha Kim,
-  Hwanjo Yu
-
-- **Crafting Query-Aware Selective Attention for Single Image Super-Resolution**
-
-  ArXiv'25
-
-  _**Junyoung Kim**_, Youngrok Kim, Siyeol Jung, Donghyun Min
 
 ## Awards & Fellowships
 
